@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Developer-Kings-dev
 - 👀 I’m interested in Flutter Development
-- 🌱 I’m currently learning Backend Development
+- 🌱 I’m currently sharpening my skills in Frontend Development
 - 💞️ I’m looking to collaborate on Real World Projects
 - 📫 How to reach me https://www.linkedin.com/in/kings-oduah-33128226a/
 - 😄 Pronouns: ...
